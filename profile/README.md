@@ -40,7 +40,11 @@ It’s not just about collecting data — it’s about making factories collabor
 
 | Repo                        | Description                                 |
 |-----------------------------|---------------------------------------------|
-
+| openfactory-core            | OpenFactory core                            |
+| openfactory-connectors      | OpenFactory protocol gateways               |
+| openfactory-asset-api       | OpenFactory Serving Layer for Assets        |
+| openfactory-sdk             | OpenFacotry Software Development Kit        |
+| openfactory-virtual-assets  | Collection of virtual OpenFactory Assets    |
 
 ---
 
