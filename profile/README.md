@@ -8,7 +8,7 @@ Developed at [Concordia University](https://www.concordia.ca/), OpenFactory supp
 
 ---
 
-## 🚧 Why OpenFactory
+## 🎯 Why OpenFactory
 
 Factories today are often fragile:
 
@@ -21,7 +21,7 @@ OpenFactory takes a different approach: make the factory programmable and testab
 
 ---
 
-## 🔧 What It Does
+## 🧩 What It Does
 
 With OpenFactory:
 
@@ -36,7 +36,7 @@ It’s not just about collecting data — it’s about making factories collabor
 
 ---
 
-## 📦 Core Repositories
+## 📂 Core Repositories
 
 | Repo                        | Description                                 |
 |-----------------------------|---------------------------------------------|
@@ -44,13 +44,13 @@ It’s not just about collecting data — it’s about making factories collabor
 
 ---
 
-## 🌐 Documentation
+## 📖 Documentation
 
 🛠️ Under active development
 
 ---
 
-## 🛠️ Core Ideas
+## 💡 Core Ideas
 
 - **Factories as Code** — assets described in config, not locked in GUIs
 - **Declarative Deployment** — describe what you want; the platform enforces it
