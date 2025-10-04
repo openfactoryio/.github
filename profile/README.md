@@ -52,7 +52,8 @@ It’s not just about collecting data — it’s about making factories collabor
 
 ## 📖 Documentation
 
-🛠️ Under active development
+- 🛠️ Under active development
+- 📚 Documentation: https://openfactory-doc.readthedocs.io/en/latest/index.html
 
 ---
 
