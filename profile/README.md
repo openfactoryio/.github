@@ -6,7 +6,7 @@ It brings modern software principles—version control, CI/CD, simulation, and t
 
 Developed at [Concordia University](https://www.concordia.ca/), OpenFactory supports research and education around smart manufacturing and edge-native industrial software.
 
-👉 [Read the full OpenFactory Manifesto]([docs/MANIFESTO.md](https://github.com/openfactoryio/openfactory-core/blob/main/docs/MANIFESTO.md))
+👉 [Read the full OpenFactory Manifesto](https://github.com/openfactoryio/openfactory-core/blob/main/docs/MANIFESTO.md))
 
 ---
 
